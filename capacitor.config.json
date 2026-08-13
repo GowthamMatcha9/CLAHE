@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.histogramequalizations",
+  "appName": "Histogram Equalizations",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
